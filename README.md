@@ -1,8 +1,13 @@
 python-fastapi-crud/
+
 ├── main.py
+
 ├── database.py
+
 ├── models.py
+
 ├── schemas.py
+
 └── crud.py
 
 
