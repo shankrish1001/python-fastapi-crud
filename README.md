@@ -1,15 +1,4 @@
-python-fastapi-crud/
-
-├── main.py
-
-├── database.py
-
-├── models.py
-
-├── schemas.py
-
-└── crud.py
-
+python-fastapi-crud
 
 Install uvicorn
 pip install uvicorn
